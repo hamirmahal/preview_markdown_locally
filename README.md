@@ -7,7 +7,7 @@ preview\_markdown\_locally illustrates how to give your repository a README.html
 
 To see it in action, clone this repository and drop it under any static-file-serving web server. Then navigate to README.html.
 
-If you're seeing this and you're not on github.com, you already have. Congrats ):
+If you're seeing this and you're not on github.com, you already have. Congrats (:
 
 The README.html contains a hotlink to Github's bundled stylesheet, and the containers are named such that it'll apply properly. This helps me get a better picture of what the documentation will look like on github.com. That said, it's totally optional and you may have other HTML & CSS that you prefer.
 
